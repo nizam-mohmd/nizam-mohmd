@@ -8,4 +8,4 @@ Business Analyst at ALPLA, based in Dubai - working across Asia & Africa on mult
 
 🎯 **Why this repo exists:** A place to document real scripts I write to solve real problems in my day-to-day work - starting small, building up.
 
-📫 Connect with me on [LinkedIn]([your-linkedin-url-here](https://www.linkedin.com/in/theonlymohamednizam/))
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/theonlymohamednizam/)
