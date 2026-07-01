@@ -1,4 +1,4 @@
-### Hi, I'm Nizam 👋
+### Hi, I'm Nizam Mohamed👋
 
 Business Analyst at ALPLA, based in Dubai - working across Asia & Africa on multi-ERP spend visibility and category-level analysis.
 
